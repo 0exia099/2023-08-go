@@ -1,0 +1,15 @@
+go 1.21.0
+
+use (
+	./array
+	./for
+	./func_add
+	./hello_go_world
+	./iota
+	./scan1
+	./switch
+	./test2
+	./test_and_benchmark
+	./var1
+	./var2
+)
